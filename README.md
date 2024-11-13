@@ -4,11 +4,11 @@ Repository for storing code in Matlab used in the article entitled "The Influenc
 
 # Authors:
 
-Artur Fernando de Vito Junior (arturvito@gmail.com)
+Artur Fernando de Vito Junior, Centro Universitário FEI (FEI)
 
-Fabrizio Leonardi
+Fabrizio Leonardi, Centro Universitário FEI (FEI)
 
-Marko Ackermann
+Marko Ackermann, Karlsruhe Institute of Technology (KIT)
 
 # Publications:
 
