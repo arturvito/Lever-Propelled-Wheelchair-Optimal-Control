@@ -1,35 +1,42 @@
-# Lever-Propelled-Optimal-Control
+# Lever-Propelled Wheelchair Optimal Control
 
-Repository for storing code in Matlab used in the article entitled "The Influence of lever-propelled wheelchair parameters on locomotion performance: a predictive simulation study"
+This repository contains the MATLAB code used for the study presented in the article titled:
 
-# Authors:
+**"The Influence of Lever-Propelled Wheelchair Parameters on Locomotion Performance: A Predictive Simulation Study"**
 
-Artur Fernando de Vito Junior, Centro Universitário FEI (FEI)
+This research aims to understand how different lever-propelled wheelchair configurations affect locomotion performance, using predictive simulations to explore optimal control solutions.
 
-Fabrizio Leonardi, Centro Universitário FEI (FEI)
+## Authors
 
-Marko Ackermann, Karlsruhe Institute of Technology (KIT)
+- **Artur Fernando de Vito Junior**, Centro Universitário FEI (FEI)
+- **Fabrizio Leonardi**, Centro Universitário FEI (FEI)
+- **Marko Ackermann**, Karlsruhe Institute of Technology (KIT)
 
-# Publications:
+## Publications
 
-Waiting ...
+- **Title**: *The Influence of Lever-Propelled Wheelchair Parameters on Locomotion Performance: A Predictive Simulation Study*
+  - **Status**: Under review (updates will be provided here)
 
+## Requirements
 
-# Requirments for using:
+To run the code in this repository, the following requirements must be met:
 
+- **MATLAB** (version 2020b or newer recommended)
+- **TOMLAB Optimization Toolbox** (used for optimal control and simulation)
+- **Dependencies**:
+  - Basic familiarity with MATLAB and numerical optimization techniques.
+  - Install any additional required MATLAB toolboxes listed in the project dependencies.
 
+## Examples of Results
 
-# Examples of results:
+Below are some video demonstrations showing comparative results from our simulations:
 
-Comparsion between A0 and B2: [https://youtu.be/I48ndfU_nlA](https://youtu.be/CGWXEokcE1M)
+- **Comparison between Configuration A0 and B2**: [Watch on YouTube](https://youtu.be/CGWXEokcE1M)
+- **Comparison between A0 and B2 on an Inclined Plane**: [Watch on YouTube](https://youtu.be/csHft7sBg0w)
+- **Comparison between C2 and B2**: [Watch on YouTube](https://youtu.be/8C14CtYMk_I)
 
-Comparison between A0 and B2 on the inclined plane: https://youtu.be/csHft7sBg0w
+## License
 
-Comparison between C2 and B2: https://youtu.be/8C14CtYMk_I
-
-
-
-
-
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
