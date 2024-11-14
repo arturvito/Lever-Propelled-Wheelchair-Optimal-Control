@@ -12,14 +12,14 @@ Marko Ackermann, Karlsruhe Institute of Technology (KIT)
 
 # Publications:
 
+Waiting ...
+
+
+# Requirments for using:
 
 
 
-# Requirments for using
-
-
-
-# Examples of results
+# Examples of results:
 
 Comparsion between A0 and B2: [https://youtu.be/I48ndfU_nlA](https://youtu.be/CGWXEokcE1M)
 
