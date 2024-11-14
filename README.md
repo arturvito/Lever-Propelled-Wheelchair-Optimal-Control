@@ -21,7 +21,12 @@ Marko Ackermann, Karlsruhe Institute of Technology (KIT)
 
 # Examples of results
 
-[![Video 1](https://img.youtube.com/vi/I48ndfU_nlA/0.jpg)](https://youtu.be/I48ndfU_nlA)
+Comparasion between A0 and B2: [https://youtu.be/I48ndfU_nlA](https://youtu.be/CGWXEokcE1M)
+
+Comparison between A0 and B2 on the inclined plane: https://youtu.be/csHft7sBg0w
+
+Comparison between C2 and B2: https://youtu.be/8C14CtYMk_I
+
 
 
 
