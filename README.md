@@ -47,15 +47,4 @@ Below are some video demonstrations showing comparative results from our simulat
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
 
-We are grateful to our institutions for providing support in conducting this research:
-
-- Centro Universitário FEI (FEI)
-- Karlsruhe Institute of Technology (KIT)
-
-## Contact
-
-If you have any questions, feel free to reach out:
-
-- Artur Fernando de Vito Junior: [arturvito@FEINET.FEI.EDU.BR](mailto:arturvito@FEINET.FEI.EDU.BR)
