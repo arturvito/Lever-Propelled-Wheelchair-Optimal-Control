@@ -20,6 +20,6 @@ Marko Ackermann, Karlsruhe Institute of Technology (KIT)
 
 
 # Examples of results
-[![Watch the video](https://img.youtube.com/vi/I48ndfU_nlA/0.jpg)](https://youtu.be/I48ndfU_nlA)
+[![](https://img.youtube.com/vi/I48ndfU_nlA/0.jpg)](https://youtu.be/I48ndfU_nlA)
 
 
