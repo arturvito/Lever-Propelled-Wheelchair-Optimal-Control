@@ -35,8 +35,6 @@ Below are some video demonstrations showing comparative results from our simulat
 - **Comparison between A0 and B2 on an Inclined Plane**: [Watch on YouTube](https://youtu.be/csHft7sBg0w)
 - **Comparison between C2 and B2**: [Watch on YouTube](https://youtu.be/8C14CtYMk_I)
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
