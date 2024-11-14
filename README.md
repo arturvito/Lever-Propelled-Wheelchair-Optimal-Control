@@ -27,14 +27,6 @@ To run the code in this repository, the following requirements must be met:
   - Basic familiarity with MATLAB and numerical optimization techniques.
   - Install any additional required MATLAB toolboxes listed in the project dependencies.
 
-## Running the Code
-
-- **Step 1**: Load the required configurations by executing the setup script.
-- **Step 2**: Execute the main script (`main_program.m`) to simulate the different configurations and parameters of lever-propelled wheelchairs.
-- **Step 3**: Visualize results and generate plots to analyze locomotion performance.
-
-Please refer to the comments in each script for further details on how to run specific parts of the code.
-
 ## Examples of Results
 
 Below are some video demonstrations showing comparative results from our simulations:
