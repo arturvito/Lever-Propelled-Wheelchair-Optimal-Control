@@ -27,22 +27,6 @@ To run the code in this repository, the following requirements must be met:
   - Basic familiarity with MATLAB and numerical optimization techniques.
   - Install any additional required MATLAB toolboxes listed in the project dependencies.
 
-## Setup Instructions
-
-1. Clone this repository to your local machine:
-
-    ```sh
-    git clone https://github.com/arturvito/Lever-Propelled-Wheelchair-Optimal-Control.git
-    ```
-
-2. Make sure to add the relevant toolboxes and paths in MATLAB:
-
-    ```matlab
-    addpath(genpath('path_to_your_toolboxes'));
-    ```
-
-3. Verify all dependencies are installed before running the simulations.
-
 ## Running the Code
 
 - **Step 1**: Load the required configurations by executing the setup script.
