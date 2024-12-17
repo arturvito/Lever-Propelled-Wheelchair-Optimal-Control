@@ -1,4 +1,4 @@
-# Lever-Propelled Wheelchair Optimal Control
+# Optimal Control of Lever-Propelled Wheelchair Locomotion
 
 This repository contains the MATLAB code used for the study presented in the article titled:
 
